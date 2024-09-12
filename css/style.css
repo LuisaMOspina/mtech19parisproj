@@ -75,15 +75,21 @@ header ul li:last-of-type{
 }
 
 .miniSect{
-    background-color:plum;
+    background-color:rgb(221, 160, 221);
     width:100%;
     height:50vh;
 }
 
-.miniTitle{
-    background-color:mediumaquamarine;
+.miniT{
     width:100%;
     height:auto;
+    background-color:navajowhite;
+}
+
+.miniTitle{
+    background-color:rgba(102, 205, 171, 0);
+    width:50%;
+    padding:55px 0 10px 0;
 }
 
 .miniTitle h2{
@@ -91,26 +97,26 @@ header ul li:last-of-type{
 }
 
 .miniHead{
-    background-color:darkcyan;
-    width:100%;
+    background-color:rgba(0, 139, 139, 0);
+    width:50%;
     height:auto;
     font-size:22px;
+    padding-bottom:30px;
 }
 
 .miniBoxCont{
     width:100%;
-    height:60%;
-    background-color:lightcoral;
+    padding:10px 0 10px 0;
+    background-color:rgba(240, 128, 128, 0.888);
     display:flex;
     justify-content:center;
     /*justify-content:space-around;*/
     text-align:center;
 }
 
-
 .miniImg{
     width:300px;
-    height:200px;
+    height:220px;
     background-color:rgb(231, 243, 102);
     background-repeat:no-repeat;
     background-size:cover;
@@ -123,7 +129,7 @@ header ul li:last-of-type{
 
 #vegLunch{
     background-image:url(../images/vegetarian-ideas.jpg);
-    margin:0 50px 0 50px;
+    margin:0 100px 0 100px;
 }
 
 #dinner{
