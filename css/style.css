@@ -48,4 +48,23 @@ header ul li:last-of-type{
     background-image:url(../images/hero-image.jpg);
     background-repeat:no-repeat;
     background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:end;
+}
+
+.imgTitle{
+    width:30%;
+    padding:10px;
+    background-color:white;
+    margin-bottom:100px;
+}
+
+.imgTitle h1{
+    text-transform:uppercase;
+    text-align:center;
+    font-weight:800;
+    font-size:35px;
+    word-spacing:3px;
+    letter-spacing:.5px;
 }
