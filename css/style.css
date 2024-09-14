@@ -168,3 +168,56 @@ header ul li:last-of-type{
 #teriChick{
     background-image:url(../images/teri-chicken.webp);
 }
+
+
+
+
+#burger{
+    background-image:url(../images/burger.jpg);
+}
+
+#pizza{
+    background-image:url(../images/pizza.jpeg);
+}
+
+#cityFood{
+    background-image:url(../images/lobster.jpg);
+}
+
+
+
+
+footer{
+    width:100%;
+    height:120px;
+    background-color:#f1a536;
+    position:absolute;
+    bottom:-1800px;
+    display:flex;
+    align-items:center;
+    margin-bottom:4px;
+}
+
+footer p{
+    font-size:18px;
+    font-weight:500;
+}
+
+footer ul{
+    width:70%;
+    background-color:rgba(228, 104, 104, 0);
+    text-align:right;
+}
+
+footer ul li{
+    text-decoration:none;
+    display:inline-block;
+    background-color:rgba(126, 252, 0, 0.564);
+    font-size:15px;
+    font-weight:500;
+    padding:20px;
+}
+
+footer ul li:hover{
+    cursor:pointer;
+}
