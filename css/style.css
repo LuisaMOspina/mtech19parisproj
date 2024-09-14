@@ -78,6 +78,7 @@ header ul li:last-of-type{
     background-color:rgba(221, 160, 221, 0);
     width:100%;
     height:50vh;
+    padding-bottom:50px;
 }
 
 .miniT{
@@ -125,9 +126,16 @@ header ul li:last-of-type{
     background-position:center;
 }
 
+.miniImg:first-of-type{
+    margin-left:200px;
+}
+
+.miniImg:last-of-type{
+    margin-right:200px;
+}
+
 #brekky{
     background-image:url(../images/breakfast-ideas.jpg);
-    margin-left:200px;
 }
 
 #vegLunch{
@@ -136,5 +144,27 @@ header ul li:last-of-type{
 
 #dinner{
     background-image:url(../images/cold-weather-dinners.jpeg);
-    margin-right:200px;
+}
+
+
+
+
+#miniSect2{
+    background-color:#dadfea;
+}
+
+#fajitaPepp{
+    background-image:url(../images/fajita-peppers.jpeg);
+}
+
+#muffins{
+    background-image:url(../images/muffins.jpeg);
+}
+
+#eggplant{
+    background-image:url(../images/eggplant-parmesan.jpg);
+}
+
+#teriChick{
+    background-image:url(../images/teri-chicken.webp);
 }
