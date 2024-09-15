@@ -226,3 +226,99 @@ footer ul li:hover{
 footer ul li:last-of-type{
     margin-right:200px;
 }
+
+
+
+
+
+
+
+
+
+#burger{
+    background-image:url(../images/bengal-burger.jpg);
+}
+
+#descr{
+    width:100%;
+    height:150px;
+    background-color:#dadfea;
+    align-content:center;
+}
+
+#descr h2{
+    width:20.5%;
+    background-color:rgba(255, 217, 0, 0);
+    text-align:center;
+    padding:5px 0 5px 0;
+    font-size:28px;
+    font-weight:800;
+}
+
+#descr p{
+    font-size:20px;
+}
+
+#line1{
+    width:70%;
+    background-color:rgba(175, 238, 238, 0);
+    display:flex;
+    justify-content:space-around;
+    padding:5px 0 5px 0;
+}
+
+#line2{
+    width:44.5%;
+    background-color:rgba(233, 150, 122, 0);
+    display:flex;
+    justify-content:space-around;
+    padding:5px 0 5px 0;
+}
+
+#review{
+    width:100%;
+    height:50vh;
+    background-color:rgb(224, 16, 86);
+    align-content:center;
+}
+
+#heading{
+    width:100%;
+    background-color:khaki;
+}
+
+#heading h1{
+    text-transform:uppercase;
+    text-align:center;
+}
+
+#banner{
+    width:50%;
+    padding:10px;
+    background-color:#eef0f4;
+    text-align:center;
+    margin:auto;
+}
+
+#banner h2{
+    color:#575656;
+}
+
+#making{
+    width:100%;
+    height:100vh;
+    background-color:seagreen;
+    display:flex;
+}
+
+#ingr{
+    width:50%;
+    height:100vh;
+    background-color:red;
+}
+
+#dire{
+    width:50%;
+    height:100vh;
+    background-color:peachpuff;
+}
